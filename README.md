@@ -48,6 +48,6 @@ The Random Forest model was selected based on evaluation metrics such as accurac
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-username/aqi-prediction-model.git
+git clone https://github.com/KavyaSoni123/AQI-predictor-model.git
 cd aqi-prediction-model
 pip install -r requirements.txt
